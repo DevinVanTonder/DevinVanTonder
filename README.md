@@ -16,4 +16,4 @@
     Power Automate
     Azure Data Studio
 
-i focus on C#.
+Give me C# and my headphones and im happy as a pig in sh...mud
