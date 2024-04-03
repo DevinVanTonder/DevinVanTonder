@@ -2,11 +2,13 @@
 
 ## Welcome to my realm! 👋
 
+currently obsessing over .net maui
+
 ### 💻 Tech Stack
 
     C#
     JavaScript
-    SQL
+    MS SQL
     SQLite
     .NET Maui
     .NET
@@ -16,4 +18,4 @@
     Power Automate
     Azure Data Studio
 
-Give me C# and my headphones and im happy as a pig in sh...mud
+Brazillian jiu-jutsu when im not writing code :) 
